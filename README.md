@@ -1,0 +1,2 @@
+# specs
+Tarot AutoML Design
